@@ -36,7 +36,7 @@ The output of this code, when the filled list has been joined into a string, sho
 
 #### To determine the protein molecular weight: 
 
-12. A dictionary has been set up with the 20 amino acid molecular weights in, this dictionary will be used in a loop to determine the molecular weight of the MupB protein (or own protein). Change the lines of code in the loop if required if specific to own protein
+12. A dictionary has been set up with the 20 amino acid molecular weights in, this dictionary will be used in a loop to determine the molecular weight of the MupB protein (or own protein). Change the lines of code in the loop for own protein if required
  
 13. Use the sum(mupB_mw) code to determine the molecular weight of the MupB protein. Ensure the line above has correctly set the molecular weight list to integers. Change lines of code if necessary for own protein. The output of the code should be the molecular weight:
 
