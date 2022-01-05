@@ -10,7 +10,7 @@
 
 3. Run through the next lines of script, but ensure if different protein fasta sequence is read in, that next lines of code are labelled correctly
 
-4. A dictionary of optimised codonds for expression in _E. coli_ has been set up, run the loop in which the empty list mupB_codon = [] is filled with codons defined by the amino acid residues in the mupB sequence. As before, change any appropiate lines of code if a different protein has been selected.
+4. A dictionary of optimised codons for expression in _E. coli_ has been set up, run the loop in which the empty list mupB_codon = [] is filled with codons defined by the amino acid residues in the mupB sequence. As before, change any appropiate lines of code if a different protein has been selected.
 The output of this code, when the filled list has been joined into a string, should be the DNA sequence that encodes the different amino acids in the protein sequence:
 
 ![ORF_PIC](https://github.com/Sachacharlton/Data_Science_Assessment/blob/master/Codon_Output.PNG)
