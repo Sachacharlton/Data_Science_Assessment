@@ -4,7 +4,7 @@
 
 1. Download the scripts and fasta file from this repositary in a single directory and ensure the biopython package has been installed in [anaconda.navigator](https://www.anaconda.com/), then launch jupyterlab from the anaconda navigator, the script should open in a jupyter notebook
 
-2. If using the MupB sequence, then continue. If using own protein sequence, then under 'Loading in DNA sequence header' ensure: 
+2. If using the MupB sequence, then continue. If using own protein sequence, then under 'Loading in DNA sequence' header ensure: 
 - Download desired protein sequence fasta file from [NCBI](https://blast.ncbi.nlm.nih.gov/Blast.cgi?PROGRAM=blastp&PAGE_TYPE=BlastSearch&LINK_LOC=blasthome) and name appropiately
 - Edit line of code SeqIO.read("your-file-name.fasta", "fasta") and label own protein name
 
