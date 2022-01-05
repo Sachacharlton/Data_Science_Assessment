@@ -15,7 +15,7 @@ The output of this code, when the filled list has been joined into a string, sho
 
 ![ORF_PIC](https://github.com/Sachacharlton/Data_Science_Assessment/blob/master/Codon_Output.PNG)
 
-5. The next lines of code are used to check that the dictionary and loop functions ran correctly to convert the amino acids into optimised _E. coli codons_. When the codon output has been defined as a new DNA sequence, transcribed and translated into protein sequence, this generated protein sequence can be compared with the original, desired protein sequence to check they match. The 'if' statement in the line of code should then confirm this: 
+5. The next lines of code are used to check that the dictionary and loop functions ran correctly to convert the amino acids into optimised _E. coli_ codons. When the codon output has been defined as a new DNA sequence, transcribed and translated into protein sequence, this generated protein sequence can be compared with the original, desired protein sequence to check they match. The 'if' statement in the line of code should then confirm this: 
 
 ![if_statement](https://github.com/Sachacharlton/Data_Science_Assessment/blob/master/if_statement.PNG)
 
