@@ -13,11 +13,11 @@
 4. A dictionary of optimised codonds for expression in _E. coli_ has been set up, run the loop in which the empty list mupB_codon = [] is filled with codons defined by the amino acid residues in the mupB sequence. As before, change any appropiate lines of code if a different protein has been selected.
 The output of this code, when the filled list has been joined into a string, should be the DNA sequence that encodes the different amino acids in the protein sequence:
 
-![ORF_PIC](https://https://github.com/Sachacharlton/Data_Science_Assessment/blob/master/Codon_Output.PNG)
+![ORF_PIC](https://github.com/Sachacharlton/Data_Science_Assessment/blob/master/Codon_Output.PNG)
 
 5. The next lines of code are used to check that the dictionary and loop functions ran correctly to convert the amino acids into optimised E. coli codons. When the codon output has been defined as a new DNA sequence, transcribed and translated into protein sequence, this generated protein sequence can be compared with the original, desired protein sequence to check they match. The 'if' statement in the line of code should then confirm this: 
 
-![if_statement](https://https://github.com/Sachacharlton/Data_Science_Assessment/blob/master/if_statement.PNG)
+![if_statement](https://github.com/Sachacharlton/Data_Science_Assessment/blob/master/if_statement.PNG)
 
 6. Use the GC content function to determine the GC content of MupB (or own protein DNA sequence)
  
@@ -40,4 +40,4 @@ The output of this code, when the filled list has been joined into a string, sho
  
 13. Use the sum(mupB_mw) code to determine the molecular weight of the MupB protein. Ensure the line above has correctly set the molecular weight list to integers. Change lines of code if necessary for own protein. The output of the code should be the molecular weight:
 
-![mupB_mw](https://https://github.com/Sachacharlton/Data_Science_Assessment/blob/master/sum_mw.PNG)
+![mupB_mw](https://github.com/Sachacharlton/Data_Science_Assessment/blob/master/sum_mw.PNG)
