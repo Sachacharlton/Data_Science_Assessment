@@ -1,5 +1,4 @@
-This is working code written in Python to explore the MupB protein sequence, encoded on the mupirocin biosynthetic pathway in ***Pseudomonas fluorescens***. The code can be used to design primers for expression of MupB in ***E. coli*** and calculate GC content of MupB and the selected primers. The code can also be used to calculate the total molecular weight of MupB. 
-The user is free to select a different protein if their interests require.
+#### This is working code written in Python to explore the MupB protein sequence, encoded on the mupirocin biosynthetic pathway in ***Pseudomonas fluorescens***. The code can be used to design primers for expression of MupB in ***E. coli*** and calculate GC content of MupB and the selected primers. The code can also be used to calculate the total molecular weight of MupB. The user is free to select a different protein if their interests require.
 
 To run: 
 
