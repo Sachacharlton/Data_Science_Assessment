@@ -1,6 +1,6 @@
-#### This is working code written in Python to explore the MupB protein sequence, encoded on the mupirocin biosynthetic pathway in ***Pseudomonas fluorescens***. The code can be used to design primers for expression of MupB in ***E. coli*** and calculate GC content of MupB and the selected primers. The code can also be used to calculate the total molecular weight of MupB. The user is free to select a different protein if their interests require.
+### This is working code written in Python to explore the MupB protein sequence, encoded on the mupirocin biosynthetic pathway in ***Pseudomonas fluorescens***. The code can be used to design primers for expression of MupB in ***E. coli*** and calculate GC content of MupB and the selected primers. The code can also be used to calculate the total molecular weight of MupB. The user is free to select a different protein if their interests require.
 
-To run: 
+#### To run: 
 
 1. Download the scripts and fasta file from this repositary in a single directory and ensure the biopython package has been installed in [anaconda.navigator](https://www.anaconda.com/), then launch jupyterlab from the anaconda navigator, the script should open in a jupyter notebook
 
@@ -24,7 +24,7 @@ The output of this code, when the filled list has been joined into a string, sho
 
 7. Run the line of code which compliments the MupB DNA sequence (or own protein DNA sequence).
 
-To design primer strands:
+#### To design primer strands:
 
 8. Select the first 6 codons on the forward protein DNA sequence and last 6 codons on the reverse protein DNA sequence. This will be used to design basic primers that can be used to amplify the protein sequence in PCR reaction. This can be appended/edited later with enzyme restriction sites if the DNA sequence was wished to be removed from the original plasmid and ligated to a new desired plasmid.
 
@@ -34,7 +34,7 @@ To design primer strands:
 
 11. Use the code below to determine the GC content of these primer sequences with the restriction sites
 
-To determine the protein molecular weight: 
+#### To determine the protein molecular weight: 
 
 12. A dictionary has been set up with the 20 amino acid molecular weights in, this dictionary will be used in a loop to determine the molecular weight of the MupB protein (or own protein). Change the lines of code in the loop if required if specific to own protein
  
