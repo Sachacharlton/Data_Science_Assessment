@@ -30,7 +30,7 @@ The output of this code, when the filled list has been joined into a string, sho
 
 9. Use the GC function code to determine the GC contents of the selected primer sequences
 
-10. The next line of code uses the original primer sequences, and added EcoRI restriction sites to either the start of the forward primer strand, or the end of the reverse primer strand. These can be edited to different enzyme restriction sites if desired
+10. The next line of code uses the original primer sequences, and added EcoRI restriction sites to either the start of the forward primer strand, or the end of the reverse primer strand. These can be edited to different enzyme restriction sites (or appended with extra codons) if desired
 
 11. Use the code below to determine the GC content of these primer sequences with the restriction sites
 
